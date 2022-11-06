@@ -1,5 +1,5 @@
 # tec-Das-BlinkenLights
-![st,small,507x507-pad,600x600,f8f8f8](https://user-images.githubusercontent.com/58069246/200148091-4271b3d2-be83-44db-a195-1a2044843e71.jpg)
+![image](https://user-images.githubusercontent.com/58069246/200148202-c3f32e42-5842-4dd9-a116-917f0a455e89.png)
 
 
 
