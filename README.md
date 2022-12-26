@@ -16,6 +16,10 @@
 
 ![313440718_10162449777454012_4753855659430796960_n](https://user-images.githubusercontent.com/58069246/200147921-b02bdacf-72fa-4bf7-b009-5a74b371910a.jpg)
 
+## Iterate
+see 8x8x8
+
+
 ## Ref
 - https://en.wikipedia.org/wiki/Blinkenlights
 - https://www.netlingo.com/word/das-blinkenlights.php
